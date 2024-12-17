@@ -4,22 +4,21 @@ permalink: /work experience/index.html
 title: Work Experience
 ---
 
-## Professional Experiences (Surgical Resident):
+## Professional Experiences (Neurology Resident):
 
 **The first hospital of China Medical University, Shenyang**  (09/2023-present) <br>
 
-- Manage hospitalized patients (an average of **30 patients** per month), make preliminary diagnosis and assist supervising physicians with pre-surgical examinations and post-surgical management.
-- An average monthly surgical volume of **over 20 cases as FA (first assistant) or SA (Second assistant)** in surgery. **Proficiency** in basic surgical procedures and instrumentations.
-- Supervise medical interns in basic clinical practice. Participate in the discussion of surgical protocols and in-house lectures.
-- Develop a **comprehensive understanding** of clinical symptoms and treatments for tumors in various system.<br>
+- Continue previous clinical work with more comprehensive management of hospitalized patients and become proficient in clinical work. (an average of 30 patients per month)
+- Actively participate in neurology-related academic conferences and training lectures. 
+- Gain an in-depth understanding of the pathogenesis of neuroimmunology diseases and the latest treatment options.
 
-## Professional Experiences (Surgical Intern)
+## Professional Experiences (Neurology Intern)
 
 **The first hospital of China Medical University, Shenyang**  (08/2022-08/2023)<br>
 
-- Assisted resident surgeons and professors in management of inpatients, attending surgeries as an assistant, and learning basic clinical skills.  (**an average of 30 patients** per month)
-- Participated in the in-house lectures.
-- Successfully passed the the Examinations of the National Certified Physicians and obtained **the Certificate of Physician Credentials** and **the Certificate of Medical Licensure**.<br>
+- Assist the attending physician and professor in managing patients, learning the basics of diagnosing and treating neurological diseases through clinical practice. (an average of 30 patients per month)
+- Participate in teaching lectures and academic conferences related to specialized diseases.
+- Successfully passed the Practicing Physician Examination and obtained **the Certificate of Physician Credentials** and **the Certificate of Medical Licensure**.<br>
 
 ## Professional Experiences (Student Intern)
 

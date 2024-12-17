@@ -12,23 +12,21 @@ Throughout my master's degree, I played 2 roles simultaneously.
 
 **Role 1: Postgraduate Student of China Medical university** <br>
 
-I am a graduate student in the Department of Surgery and Urology at the China medical university, advised by Prof. Jianbin Bi, with a main research focus on Genitourinary Oncology (Clinical diagnosis, Treatment and Prognosis of malignant tumors of the urinary system). I have achieved an outstanding academic score in class (4th out of 153 students in our major, **Top 3%**) and will get my master degree in Clinical Medicine (Surgery) in 2025.  Detailed publications and research program are displayed in Section "Publication", "Research experience" and "Patent".
+I am a graduate student in the Department of Neurology at the China medical university, advised by Prof. Ruixia Zhu, with a main research focus on Neuroimmune diseases (Clinical diagnosis, Treatment and Prognosis). I have achieved an outstanding academic score in class (17th out of 153 students in our major) and will get my master degree in Clinical Medicine (Neurology) in 2025.  Detailed publications and research program are displayed in the corresponding sections. 
 
-**Role 2: Surgical resident in the first affiliated hospital of China Medical University**<br>
+**Role 2: Neurology resident in the first affiliated hospital of China Medical University**<br>
 
-I have also performed clinical work and surgery as a surgical resident in [the First affiliated hospital of China Medical University](https://www.cmu1h.com/home) for 3 years and **successfully passed** the Examinations of the National Certified Physicians and obtained **the Certificate of Physician Credentials** and **Certificate of Medical Licensure** in 2023. I have gained a comprehensive understanding of tumors and common diseases of different systems during my internships in various surgical departments.  I am very grateful for my deep involvement in clinical work at our hospital over the past 3 years. This experience has equipped me with: <br>
+I have also performed clinical work as a Neurology resident in [the First affiliated hospital of China Medical University](https://www.cmu1h.com/home) for 3 years and **successfully passed** the Examinations of the National Certified Physicians and obtained **the Certificate of Physician Credentials** and **Certificate of Medical Licensure** in 2023. I have gained a comprehensive understanding of neuroimmune and common diseases of different systems during my internships in various departments.  I am very grateful for my deep involvement in clinical work at our hospital over the past 3 years. This experience has equipped me with: <br>
 
-① Proficient clinical and surgical skills.<br>
+① The Diagnostic and Therapeutic Approach to Internal Medicine Diseases.<br>
 
-② Valuable thinkings about clinical diagnosis and treatment.<br>
+② Strong communication skills with patients and teamwork abilities with colleagues.<br>
 
-③ Strong communication skills with patients and teamwork abilities with colleagues.<br>
-
-④ Ability to catch the interests of clinical workers during the process of translation from laboratory researches into clinical application. (Because I have also experienced clinical work, too!)<br>
+③ Possessing a keen insight into translating laboratory findings into clinic, also a potential  to identify the new hitting-point for experimental exploration.<br>
 
 Detailed responsibilities and work experience are presented in Section "Work experience"
 
-If you are interested in any aspect of me, I am always open to discussions and sharing of experiences in clinical work. Feel free to reach out to me at - jiangbh.1999@gmail.com (foreign friends) and jiangbh.1999@163.com (Chinese friends).
+If you are interested in any aspect of me, I am always open to discussions and sharing of experiences in clinical work. Feel free to reach out to me at wbq.898472702@gmail.com (foreign friends) and 898472702@qq.com(Chinese friends).
 
 ---
 
@@ -52,17 +50,24 @@ If you are interested in any aspect of me, I am always open to discussions and s
   
   Rank 17th in my major (17/153)
 
-## Research Interests
+## <font color=""> Interests</font>
 
-**<font color="#990000">I am actively seeking a PhD position for 2025 Fall admission. I will apply for funding from China Scholarship Counsil (CSC) which could support my living expenses abroad. If you have any information, please contact me!</font>**
+##### *<font color="990085876">I am actively seeking a PhD position for 2025 Fall admission. I will apply for funding from China Scholarship Counsil (CSC) which could support my living expenses abroad. If you have any information, please contact me!</font>*
 
-- Oncology, especially malignant tumors of the urinary system. 
-- I am also willing to study tumors in other parts because I have had **in-depth communication and participation in the treatment** of patients with various systemic tumors in my clinical work.
-- Mechanisms related to tumor progression and metastasis.
-- Translation of laboratory research achievements into clinical practice.
-- Etiology of cancer/ Early screening. 
 
-My current research focuses on clinical treatment and control of cancer progression. And all the fields above are **<font color="#990000">closely related</font>** to my **current research** topic and **future career planning** ——being an outstanding researcher and surgeon. In a word, decryption of  the password hidden behind the treatment and progression of cancer positively influences the life of cancer sufferers.  I wish to devote my talent to this meaningful cause and bring well-being to society.
+
+###### Topics that interest me in future research：
+
+- Neuroimmune diseases represented by multiple sclerosis and myasthenia gravis. 
+- Molecular basis, signaling pathways and immune abnormalities in the pathogenesis of neuroinflammatory diseases.
+- Targeted drugs and precision treatment of neuroimmune diseases guided by molecular and cellular lesions
+- Whether chronic neuroinflammatory diseases can be controlled for a long time based on major discoveries in molecular cytology
+
+My current research focuses on clinical treatment and control of myasthenia gravis. **And all the fields above are <font color="">closely related</font> to my current research topic and future career planning** ——being an outstanding researcher and doctor. So far, neuroimmunological diseases remain one of the toughest challenges in the field of neurology. The triggers of these diseases are often unclear, and their onset can be quite insidious. Moreover, abnormalities in the immune system can lead to damage across multiple systems, necessitating long-term, precise, and personalized treatment approaches. Therefore, in my future work and studies, I am committed to dedicating myself to this field and striving for the betterment of human health throughout my lifetime!
+
+
+
+
 
 ---
 

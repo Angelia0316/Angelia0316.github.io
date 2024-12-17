@@ -4,20 +4,14 @@ permalink: /contact me/index.html
 title: Contact Me
 ---
 
-# Nelsonjiang1999.github.io
+# <u>**angelia0316.github.io**</u>
 
-My English name Nelson comes from a famous British naval commander in the 18th century. His name is Horatio Nelson (1758-1805). I chose this name not only to express my admiration for his outstanding military achievements, but also to hope that I can remember his courage and unwavering determination in history during difficult times to motivate myself. 
+My Chinese name is Benqiao Wang, and Angelia is my English name. Feel free to address me in any friendly manner you prefer; this could be the beginning of a beautiful friendship between us!
 
-Oh, well... I admit that I am a heavy history enthusiast.
+#### *<font color="990085876">If you have any questions that need to be discussed with me, please don't hesitate to reach out to me.(Not limited to academic purposes, but please indicate your purpose)</font>*
 
-## Feel free to contact me if you have any questions that need to be discussed with me.(Not limited to academic purposes, but please indicate your purpose)
+- You may contact me through the following two email addresses:
 
-- For Chinese friends:  
+  Email: 898472702@qq.com
 
-  Email: jiangbh.1999@163.com
-
-  Wechat: <img src="https://NelsonJiang1999.github.io/images/wechat.JPG" style="zoom: 25%;" />
-
-- For foreign friends:
-
-  Email: jiangbh.1999@gmail.com
+  Email: wbq.898472702@gmail.com

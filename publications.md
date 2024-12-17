@@ -4,56 +4,84 @@ permalink: /publications/index.html
 title: Publications
 ---
 
-> (†: equal contribution, ~: corresponding author)
+> (#: equal contribution, *: corresponding author)
 
-## Publication (as the first author)
+## Publication
 
-- [ **Retroperitoneal Bronchogenic Cyst：A Case Report and Literature review**](https://www.frontiersin.org/journals/oncology/articles/10.3389/fonc.2024.1406270/full)<br>[Frontiers in Oncology]<br>**Bohao Jiang**†, Tiantian Xie†, Jiyuan Hu†, Yitong Xu~, Hao Zhang~<br>PMID: 35944288                                       doc: [10.3389/fonc.2024.1406270](https://doi.org/10.3389/fonc.2024.1406270)<br>
+- *<font color="990085876">The intricate dance of non-coding RNAs in myasthenia gravis pathogenesis and treatment</font>*
+
+  **[Frontiers in Immunology]**             **IF=7.3**
+
+  ***First author***
+
+  PMID: 38605954                                         DOI: [10.3389/fimmu.2024.1342213]()
+
+- *<font color="990085876">Clinical features of myasthenia gravis with neurological and systemic autoimmune diseases</font>*
+
+  **[Frontiers in Immunology]**             **IF: 7.3** 
+
+  **Author**: Ying Zhu# , **Benqiao Wang**# , Yuehan Hao, Ruixia Zhu
+
+  Contribution: Literature review
+
+  PMID: 37781409                                           DOI: [10.3389/fimmu.2023.1223322]()
+
+- *<font color="990085876">Dose-response meta-analysis on urate, gout, and the risk for Parkinson's disease</font>*
+
+  **[NPJ Parkinson's Disease]**               **IF: 8.7** 
+
+  **Author**: Hongtao Chang, **Benqiao Wang**, Yue Shi, Ruixia Zhu
+
+  Contribution: literature search, data collection
+
+  PMID: 36418349                                           DOI: [10.1038/s41531-022-00433-5]()
+
+- *<font color="990085876"> and prospects of novel biologicals for myasthenia gravis: toward personalized treatment</font>* 
+
+  **based on autoantibody specificities**
+
+  **[Frontiers in Pharmacology]**          **IF: 5.6** 
+
+  **Author**: Chi Ma, Dan Liu, **Benqiao Wang**, Yingying Yang, Ruixia Zhu
+
+  Contribution: writing–review and editing
+
+  PMID: 38881870                                           DOI: [10.3389/fphar.2024.1370411]()
+
+- *<font color="990085876">Moderate coffee or tea consumption decreased the risk of cognitive disorders: an updated dose-response meta-analysis</font>*
+
+  **[Nutrition reviews]**                               **IF: 6.1** 
+
+  **Author**: Ying Zhu, Chunxiang Hu, Xu Liu, Ruixia Zhu, **Benqiao Wang**
+
+   Contribution: formal analysis
+
+  PMID: 37523229                                           DOI: [10.1038/s41531-022-00433-5]()
 
 ---
 
-## **MANUSCRIPTS UNDER REVIEW** (as the First author/Co-first author)
+## **Manuscrips Under Review** 
 
-(1)  **Comparative Therapeutic Effects and Safety of Different Treatments for Metastatic Castration-resistant Prostate Cancer: A Systemic Review and Network Meta-Analysis on Antiandrogen, PARP Inhibitor and Immunotherapy**<br>
+- *<font color="95442222444444446788799999911111111111111">Comparative Therapeutic Effects and Safety of Different Treatments for Metastatic Castration-resistant Prostate Cancer: A Systemic Review and Network Meta-Analysis on Antiandrogen, PARP Inhibitor and Immunotherapy</font>*
 
- [eClinical Medicine]<br>
+  **[eClinical Medicine]** 
 
-**Bohao Jiang**†, Benqiao Wang†, Yiming Chen, Yaang Chen，Bohan Li~, Jianbin Bi~<br>
+  **Author**: Bohao Jiang# , **Benqiao Wang**# , Yiming Chen, Yaang Chen, Bohan Li, Jianbin BiCo-first author: # 
 
-Manuscript ID: eclinm-D-24-04075         Current Status: Independent review<br>
+  Contribution: writing, review, editing, methodology
 
-(2)   **Two Rare Cases of Primary Clear Cell Adenocarcinoma of the Urethra: Clinical experience, Case report and Literature Review**<br>
+  Manuscript ID: eclinm-D-24-04075  
 
- [Frontiers in Oncology]<br>
+  Current Status: Independent review
 
-**Bohao Jiang**†, Jiyuan Hu†, Benqiao Wang, Xujia Liu~, Yitong Xu~, Hao Zhang~<br>
+- *<font color="95442222444444446788799999911111111111111">Two Rare Cases of Primary Clear Cell Adenocarcinoma of the Urethra: Clinical experience, Case report and Literature Review</font>*
 
-Manuscript ID: 1539312                             Current Status: Independent review<br>
+   **[Frontiers in Oncology]** 
 
-(3)  **Case Report: Two Cases of Chemotherapy Refractory Aggressive Variant Prostate Cancer with Extreme Durable Response to PARP inhibitor**<br>
+  **Author**: Bohao Jiang, Jiyuan Hu, **Benqiao Wang**, Xujia Liu, Yitong Xu, Hao Zhang
 
-[Frontiers in Oncology]<br>
+  Contribution: investigation, visualization, review, editing
 
-**Bohao Jiang**†, Yifan Bi†, Yiming Chen, Jianbin Bi, Jian Deng~, Gejun Zhang~<br>
+  Manuscript ID: 1539312 
 
-Manuscript ID: 1533627                             Current Status: Reviewers assignment<br>
-
-(4)  **Early Predictive Accuracy of Machine Learning for Hemorrhagic Transformation in Acute Ischemic Stroke: A Systemic review and Meta-Analysis**<br>
-
-[Translational Medicine]<br>
-
-Benqiao Wang†, **Bohao Jiang**†, Dan Liu, Ruixia Zhu~<br>
-
-Manuscript ID: JTRM-D-24-16267             Current Status:  Submitted<br>
-
-Contribution: Data analysis and statistical method support
-
-(5)  **4 cases of Juxtaglomerular cell tumor: Clinical experience and literature review**<br>
-
-[Frontiers in Endocrinology]<br>
-
-Mingyue Jin†, **Bohao Jiang**†, Jiyuan Hu†, Xianhao Xiao, Xiaolong Hou, Xiaoxiao Xu, Xiaojun Man~, Hao Zhang~<br>
-
-Manuscript ID: 1536206                              Current Status: Reviewers assignment<br>
-
-Contribution: Clinical data collection and Literature review
+  Current Status: Independent review
