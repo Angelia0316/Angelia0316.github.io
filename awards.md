@@ -6,12 +6,23 @@ title: Awards
 
 ## HONORS AND AWARDS
 
-- Third-class Academic Scholarship awarded by China Medical University  (2022-2023)
-- Outstanding individual students of the school  (2020-2021)
-- First-class Academic Scholarship awarded by China Medical University  (2020-2021)
-- First-class Academic Scholarship awarded by China Medical University  (2019-2020)
-- First-class Academic Scholarship awarded by China Medical University  (2018-2019)
-- Second-class Academic Scholarship awarded by China Medical University  (2017-2018)
+- **National Scholarship** awarded by Ministry of Eduction of China 
+
+  (2023-2024)
+
+- **Excellent resident** of the First Affiliated Hospital of China Medical University (2023-2024)
+
+- **First-class Academic Scholarship** awarded by China Medical University   (2023-2024)
+
+- **First-class Academic Scholarship** awarded by China Medical University  (2022-2023)
+
+- **Third-class Academic Scholarship** awarded by China Medical University  (2020-2021)
+
+- **Third-class Academic Scholarship** awarded by China Medical University  (2019-2020)
+
+- **Third-class Academic Scholarship** awarded by China Medical University  (2018-2019)
+
+- **Third-class Academic Scholarship** awarded by China Medical University  (2017-2018)
 
 ## Transcripts 
 

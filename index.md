@@ -4,9 +4,9 @@ layout: page
 
 # About Me
 
-<img src="https://nelsonjiang1999.github.io//Bohao Jiang.jpg" class="floatpic" style="zoom: 200%;" >
+![2](/Users/angelia/Documents/GitHub/Angelia0316.github.io/2.jpg)
 
-Here is **Bohao Jiang (Nelson, 姜博昊)**. 
+Here is **Benqiao Wang (Angelia, 王本俏)**. 
 
 Throughout my master's degree, I played 2 roles simultaneously.
 
@@ -34,13 +34,23 @@ If you are interested in any aspect of me, I am always open to discussions and s
 
 ## Educational Background
 
-- **China Medical University**  Master of Clinical Medicine (Surgery) (08/2022-present)<br>
+- **China Medical University** - Shenyang, China                                                                              08/2022-present
 
-​        Supervisor: Prof. Jianbin Bi;             (Expected to graduate in **June 2025**)
+  Supervisor: Prof. Ruixia Zhu
 
-- **China Medical University**  Bachelor of Clinical Medicine  (09/2017-06/2022)
+  Master of Clinical Medicine (Neurology)
 
-  Academic Score: 92/100 (GPA not applicable).  Rank 4th in my major (4/153, **top 3%**)
+  **Expected to graduate** in June 2025
+
+   
+
+- **China Medical University** – Shenyang, China                                                                             09/2017-06/2022
+
+  Bachelor of Clinical Medicine
+  
+  Score: 90/100 
+  
+  Rank 17th in my major (17/153)
 
 ## Research Interests
 
