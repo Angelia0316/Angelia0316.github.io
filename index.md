@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-![2](/Users/angelia/Documents/GitHub/Angelia0316.github.io/2.jpg)
+![2](/Users/angelia/Documents/GitHub/Angelia0316.github.io/images/2.jpg)
 
 Here is **Benqiao Wang (Angelia, 王本俏)**. 
 
